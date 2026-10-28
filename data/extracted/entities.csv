@@ -1,0 +1,15 @@
+﻿id,name_si,label
+D001,ඇල්ල,Destination
+DI001,බදුල්ල,District
+P001,ඌව පළාත,Province
+A001,පුංචි ශ්‍රී පාදය,Attraction
+A002,ඇල්ල රොක්,Attraction
+A003,ආරුක්කු නවයේ පාලම,Attraction
+A004,රාවණා ඇල්ල,Attraction
+A005,රාවණා ගුහාව,Attraction
+A006,දෝව රජමහා විහාරය,Attraction
+A007,දියලුම දිය ඇල්ල,Attraction
+A008,නිල්දිය පොකුණ,Attraction
+AC001,කඳු නැගීම,Activity
+AC002,දුම්රිය සංචාර,Activity
+AC003,ඡායාරූපකරණය,Activity
