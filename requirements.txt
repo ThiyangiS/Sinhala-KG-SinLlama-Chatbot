@@ -1,4 +1,7 @@
+
 neo4j
 python-dotenv
-
+pandas
+notebook
+ipykernel
 matplotlib
