@@ -1,0 +1,16 @@
+﻿Question_ID,Question,Expected_Intent,Predicted_Intent,Intent_Correct,Expected_Entities,Predicted_Entities,Entity_Correct
+T01,ඇල්ල පිහිටා තිබෙන්නේ කුමන පළාතේද?,province,province,True,['D001'],['D001'],True
+T02,ඇල්ල අයත් වන පළාත මොකක්ද?,province,province,True,['D001'],['D001'],True
+T03,ඇල්ල තිබෙන්නේ මොන දිස්ත්‍රික්කයේද?,district,district,True,['D001'],['D001'],True
+T04,ඇල්ලේ නවාතැන් ගන්න පුළුවන් තැන් මොනවාද?,accommodation,accommodation,True,['D001'],['D001'],True
+T05,ඇල්ලේ හෝටල් මොනවාද?,accommodation,accommodation,True,['D001'],['D001'],True
+T06,ඇල්ලේ කඳු නැගීමට පුළුවන් කොහේද?,hiking,hiking,True,['D001'],['D001'],True
+T07,රාවණා ඇල්ලේ උස කීයද?,height,height,True,['A004'],['A004'],True
+T08,රාවණා ඇල්ල මීටර් කීයක් උසද?,height,height,True,['A004'],['A004'],True
+T09,රාවණා ඇල්ල සහ දියලුම ඇල්ල අතරින් උසින් වැඩි කුමක්ද?,height_comparison,height_comparison,True,"['A004', 'A007']","['A004', 'A007']",True
+T10,දියලුම ඇල්ලද රාවණා ඇල්ලද උසින් වැඩි?,height_comparison,height_comparison,True,"['A007', 'A004']","['A007', 'A004']",True
+T11,ඇල්ලට එන දුම්රිය මොනවාද?,train_services,train_services,True,['D001'],['D001'],True
+T12,පුංචි ශ්‍රී පාදයට යන්න හොඳම වෙලාව කවදාද?,visiting_time,visiting_time,True,['A001'],['A001'],True
+T13,ඇල්ලේ ජනගහනය කීයද?,unknown,unknown,True,['D001'],['D001'],True
+T14,සීගිරියේ උස කීයද?,height,height,True,[],[],True
+T15,ඇල්ලේ පාසල් කීයක් තිබෙනවාද?,unknown,unknown,True,['D001'],['D001'],True
